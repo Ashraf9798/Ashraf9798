@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ashraf9798/Ashraf9798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack (MERN) Developer | Node.js & React — 2+ Years Project Experience**
 
-Here are some ideas to get you started:
+**Node.js • Express • MongoDB • REST APIs • JWT • Socket.IO**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bengaluru | 💼 Open to MERN / Backend / React (Junior–Mid) roles
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,git&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 What I Build
+- Backend APIs with Node.js & Express for real-world applications
+- Designed JWT-based authentication with protected routes and role-based access
+- MongoDB schema design with efficient CRUD operations
+- Real-time features using Socket.IO (chat, live updates)
+  
+---
+
+### 🛠 Tech Stack
+**Languages:** JavaScript (ES6+), Java, C++  
+
+**Frontend:** React.js, HTML, CSS, Bootstrap  
+
+**Backend:** Node.js, Express.js, REST APIs, JWT, Socket.IO  
+
+**Databases:** MongoDB, MySQL  
+
+**Templating & JS:** EJS, jQuery  
+
+**Tools:** Git, GitHub, npm, Postman, VS Code  
+
+---
+
+### 📌 Featured Work
+Explore my pinned repositories below (each includes authentication, APIs, and real backend logic):
+- **Chat App (MERN + Socket.IO)** — real-time messaging
+- **E-commerce Backend** — products, cart, orders, payments
+- **DigiMentor (Insight Learning)** — scalable backend services
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashraf9798&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashraf9798&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+### 📫 Contact
+- **LinkedIn:** https://linkedin.com/in/ashrafali9798  
+- **Email:** aliashraf979879@gmail.com
