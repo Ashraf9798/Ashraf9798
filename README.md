@@ -37,9 +37,9 @@
 
 ### 📌 Featured Work
 Explore my pinned repositories below (each includes authentication, APIs, and real backend logic):
-- **Chat App (MERN + Socket.IO)** — real-time messaging
-- **E-commerce Backend** — products, cart, orders, payments
-- **DigiMentor (Insight Learning)** — scalable backend services
+- **Chat Application (MERN + Socket.IO)** — real-time messaging
+- **E-Commerce Platform (Backend-Focused)** — products, cart, orders, payments
+- **Recruitment & Hiring System** — jobs, applications, role-based access control
 
 ---
 
