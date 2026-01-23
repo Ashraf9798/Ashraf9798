@@ -1,10 +1,10 @@
 <div align="center">
 
-**Full-Stack (MERN) Developer | Node.js & React — 2+ Years Project Experience**
+**MERN Developer (Backend-Focused) | Node.js & Express — 2+ Years Experience**
 
 **Node.js • Express • MongoDB • REST APIs • JWT • Socket.IO**
 
-📍 Bengaluru | 💼 Open to MERN / Backend / React (Junior–Mid) roles
+📍 Bengaluru | 💼 Open to MERN / Backend Developer roles
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,git&theme=dark" />
 
@@ -15,21 +15,19 @@
 ### 🚀 What I Build
 - Backend APIs with Node.js & Express for real-world applications
 - Designed JWT-based authentication with protected routes and role-based access
-- MongoDB schema design with efficient CRUD operations
+- MongoDB schema design with indexing and efficient CRUD operations
 - Real-time features using Socket.IO (chat, live updates)
   
 ---
 
 ### 🛠 Tech Stack
-**Languages:** JavaScript (ES6+), Java, C++  
+**Languages:** JavaScript (ES6+)
 
 **Frontend:** React.js, HTML, CSS, Bootstrap  
 
 **Backend:** Node.js, Express.js, REST APIs, JWT, Socket.IO  
 
 **Databases:** MongoDB, MySQL  
-
-**Templating & JS:** EJS, jQuery  
 
 **Tools:** Git, GitHub, npm, Postman, VS Code  
 
